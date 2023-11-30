@@ -1,4 +1,4 @@
-_________________________________________________________________
+## BRAIN FUCK
 This is just the compailer in python that i have been working on there several other, and thats my atemnt to it.
 
 Basicaly BrainF is a langaues that is base on these eight comands things <>-+.,[]
@@ -15,7 +15,8 @@ The , it asks for a number to read from the user and it replaces the number on t
 When the [] square brackets are used is where the loop starts and ends until where the Pointer location is at the momnet and the array valeu is 0. 
 
 E.g. if the code was this [-] it would never stop until the value of the that array is 0, or if the code was [->+<] it would move the number to the next array by subtracting 1 unit from the first and adding 1 unit to the second array.
-_________________________________________________________________
+
+## Code
 ```
 def codeReader(code):
     array = [0] 
@@ -71,3 +72,34 @@ def codeReader(code):
 
 codeReader(""code"")
 ```
+## Codes
+
+these are some of the Brain Fuck code that i have made
+
+### ADDITION
+
+addition with one unknown number
+```
+,>+++[->+<]
+```
+
+addition with two unknown numbers
+```
+,>,[->+<]
+```
+### SUBTRACTION
+
+* **subtraction is trick without getting complicated ,because you can't there are no negative numbers therefor you need to subtract the smaller number to the biggerst 
+
+### MULTIPLICATION
+
+multiplication with one unknown number
+```
+,[->+++++<]>.
+```
+
+multiplication with two unknown numbers
+```
+,>,[<[->>+>+<<<]>>[_<<+>>]<-]<[-]>>>.
+```
+
