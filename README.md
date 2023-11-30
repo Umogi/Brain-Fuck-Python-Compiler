@@ -16,8 +16,8 @@ When the [] square brackets are used is where the loop starts and ends until whe
 
 E.g. if the code was this [-] it would never stop until the value of the that array is 0, or if the code was [->+<] it would move the number to the next array by subtracting 1 unit from the first and adding 1 unit to the second array.
 _________________________________________________________________
-
-```def codeReader(code):
+```
+def codeReader(code):
     array = [0] 
     lo = [0] 
     pl = 0 #pointer loaction of the array table
