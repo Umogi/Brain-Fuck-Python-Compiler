@@ -1,11 +1,11 @@
-def interpret(code):
-    array = [0]
-    lo = [0]
-    pl = 0
-    i = 0
-    w = -1
-    c = 0
-    q = 0
+def codeReader(code):
+    array = [0] 
+    lo = [0] 
+    pl = 0 #pointer loaction of the array table
+    i = 0 #pointer of the code 
+    w = -1 #pointer of the loop table
+    c = 0 #width of the array table
+    q = 0 #width of the loop table 
     while i < len(code):
         if code[i] == "+":
             if array[pl] == 127:
@@ -50,4 +50,4 @@ def interpret(code):
         i += 1
 
 
-interpret(",>,[<[->>+>+<<<]>>[-<<+>>]<-]<[-].>.>.>.")
+codeReader(",>,[<[->>+>+<<<]>>[-<<+>>]<-]<[-].>.>.>.")
