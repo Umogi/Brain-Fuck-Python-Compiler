@@ -89,7 +89,17 @@ addition with two unknown numbers
 ```
 ### SUBTRACTION
 
-* **subtraction is trick without getting complicated ,because you can't there are no negative numbers therefor you need to subtract the smaller number to the biggerst 
+* *subtraction is trick without getting complicated ,because you can't there are no negative numbers therefor you need to subtract the smaller number to the biggerst* 
+
+subtraction with one unknown number
+```
+,>+++++[->-<]
+```
+
+subtraction with two unknown numbers
+```
+,>,[->-<]
+```
 
 ### MULTIPLICATION
 
