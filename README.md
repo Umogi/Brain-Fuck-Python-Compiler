@@ -70,7 +70,7 @@ def codeReader(code):
         i += 1
 
 
-codeReader(""code"")
+codeReader(""enter here the code"")
 ```
 ## Codes
 
