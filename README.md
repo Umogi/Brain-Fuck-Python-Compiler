@@ -14,7 +14,7 @@ The way that BrainF works is by moving around in a 2D table array that just add 
 
 * When the [] square brackets are used is where the loop starts and ends until where the Pointer location is at the momnet and the array valeu is 0. 
 
-### E.g.
+#### E.g.
 If the code was this [-] it would never stop until the value of the that array is 0, or if the code was [->+<] it would move the number to the next array by subtracting 1 unit from the first and adding 1 unit to the second array.
 
 
