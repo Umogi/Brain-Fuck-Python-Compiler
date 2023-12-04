@@ -112,6 +112,6 @@ multiplication with one unknown number
 
 multiplication with two unknown numbers
 ```
-,>,[<[->>+>+<<<]>>[_<<+>>]<-]<[-]>>>.
+,>,[<[->>+>+<<<]>>[<<+>>]<-]<[-]>>>.
 ```
 
