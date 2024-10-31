@@ -1,7 +1,8 @@
 ## BRAIN FUCK
 This is just the compailer in python that i have been working on there several other, and thats my atemnt to it.
 
-Basicaly BrainF is a langaues that is base on these eight comands things <>-+.,[]
+Basicaly BrainF is a langaues that is base on these eight comands things `<>-+.,[]`
+
 The way that BrainF works is by moving around in a 2D table array that just add and remove numbers from 0 to 127 as the ascii table.
 
 * By using the < or > it move by one step on the array base on where the pointer of the bracket with the Pointer Location.
