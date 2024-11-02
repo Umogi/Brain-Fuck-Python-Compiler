@@ -77,7 +77,7 @@ codeReader(""enter here the code"")
 ```
 ## Codes
 
-these are some of the Brain Fuck code that i have made
+these are some of the Brain Fuck code that i have made.
 
 ### ADDITION
 
